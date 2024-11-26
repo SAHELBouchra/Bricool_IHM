@@ -133,7 +133,7 @@ BriCOOL is a service app that allows clients to search for a nearby and suitable
 <img width="496" src="https://user-images.githubusercontent.com/106840796/215328576-d7ed77bc-1d9f-46c9-8106-daf2054a1a49.PNG">
 
 <h2>T‍eam</h2>
-<h3>Mariam Aboujnane</h3>
+<h3>Mariam Aboujinane</h3>
 <h3>Tasnime Amrani Nejjar</h3>
 <h3>Shadia Ait El Cadi </h3>
 <h3>Zineb M'Hifed</h3>
