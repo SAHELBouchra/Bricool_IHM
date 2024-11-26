@@ -134,15 +134,10 @@ BriCOOL is a service app that allows clients to search for a nearby and suitable
 
 <h2>T‍eam</h2>
 Mariam Aboujnane.
-
 Tasnime Amrani Nejjar.
-
 Shadia Ait El Cadi.
-
 Zineb M'Hifed.
-
 Imane Elmidaoui.
-
 Bouchra Sahel.
 
 
